@@ -90,7 +90,7 @@ body{
     }.gallery{
         width: 100%;
         padding-inline: 10px;
-        grid-auto-rows: 277px;
+        grid-auto-rows: 330px;
     }
       .box{
         grid-row: span 1;
