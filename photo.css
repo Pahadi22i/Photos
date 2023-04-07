@@ -15,6 +15,9 @@ body{
 
 }
 /* header */
+.header-name{
+    color: #555;
+}
 
 .containers{
     text-align: center;
